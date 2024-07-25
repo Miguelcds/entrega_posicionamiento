@@ -44,7 +44,7 @@ span {
 }
 
 footer {
-  position: sticky;
+  position: relative;
   border: var(--boder);
   width: 100%;
   bottom: 10px;
